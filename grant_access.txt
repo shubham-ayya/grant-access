@@ -1,1 +1,2 @@
 this group has this access
+This is the new information added to the file.
