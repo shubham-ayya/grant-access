@@ -1,1 +1,2 @@
 {"target_team": "test_team_0", "catalog": "test_catalog", "schema": "test_schema", "tables": ["test_tables", "test_tables2", "test_tables2"], "access_label": "share_tables"}
+{"target_team": "test_team_02", "catalog": "test_catalog", "schema": "test_schema", "tables": ["test_tables", "test_tables2", "test_tables2"], "access_label": "share_tables"}
